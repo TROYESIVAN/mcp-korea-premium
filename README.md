@@ -15,13 +15,13 @@ Four tools, all free:
 ## Install
 
 ```bash
-uvx --from git+https://github.com/<owner>/mcp-korea-premium chainpulse-korea
+uvx --from git+https://github.com/TROYESIVAN/mcp-korea-premium chainpulse-korea
 ```
 
 or with pip:
 
 ```bash
-pip install "git+https://github.com/<owner>/mcp-korea-premium"
+pip install "git+https://github.com/TROYESIVAN/mcp-korea-premium"
 chainpulse-korea
 ```
 
@@ -34,7 +34,7 @@ Claude Desktop (`claude_desktop_config.json`):
   "mcpServers": {
     "chainpulse-korea": {
       "command": "uvx",
-      "args": ["--from", "git+https://github.com/<owner>/mcp-korea-premium", "chainpulse-korea"]
+      "args": ["--from", "git+https://github.com/TROYESIVAN/mcp-korea-premium", "chainpulse-korea"]
     }
   }
 }
